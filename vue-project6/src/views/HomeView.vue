@@ -17,7 +17,7 @@
  
 </template>
 
-<style scoped>
+<style >
 #app > div {
   border: dashed black 1px;
   display: inline-block;
